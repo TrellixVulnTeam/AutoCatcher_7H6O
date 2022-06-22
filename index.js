@@ -1,5 +1,8 @@
-async function log(content) {
+function log(content) {
     console.log(content);
 }
 
-module.exports.log = log;
+const solveHint = require('./functions/solveHint.js');
+const hint = require('./functions/hint.js');
+
+module.exports.catcher = {solveHint, hint}
