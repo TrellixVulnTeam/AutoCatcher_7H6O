@@ -5,4 +5,4 @@ function log(content) {
 const solveHint = require('./functions/solveHint.js');
 const hint = require('./functions/hint.js');
 
-module.exports.catcher = {solveHint, hint}
+module.exports = {solveHint, hint}
