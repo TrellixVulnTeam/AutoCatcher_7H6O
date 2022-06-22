@@ -1,0 +1,22 @@
+{
+  "name": "autocatcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxMady/AutoCatcher.git"
+  },
+  "keywords": [
+    "poketwo"
+  ],
+  "author": "dux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxMady/AutoCatcher/issues"
+  },
+  "homepage": "https://github.com/MaxMady/AutoCatcher#readme"
+}
