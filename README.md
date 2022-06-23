@@ -14,21 +14,28 @@ npm i autocatcher
 ## Usage
 
 ```javascript
-const { hint, solveHint } = require('autocatcher');
+const { hint, solveHint, shinyHunt } = require('autocatcher');
 
+//Checking if pokemon is spawned
 var spawned_embed = ``; //Discord Message content
 console.log(hint(spawned_embed )); //returns true/false
 
 //Solving hint
 var new_hint = ``;
 console.log(solveHint(new_hint)) //returns pokemon name if recognized
+
+//Shiny Hunting Specific Pokemon...
+var pokemon = `Charmander`, token = `token`;
+var servers_allowed: ["922465517833420812", "Server_2"] //Servers where it should catch
+var config = {limit: 75, allowedGuilds: servers_allowed} //Limit: Number at which it should stop catching.
+shinyHunt(token, pokemon, config) // Returns null. Token, if valid, would be online and catching.
 ```
 ## Checklist
 
 - [x] Hint Solver
 - [x] Spawn detector
 - [ ] Spawn Notifier[Webhook]
-- [ ] Auto-Shiny Hunter
+- [x] Auto-Shiny Hunter
 - [ ] Auto-Incense-r
 - [ ] Market Nuker
 - [ ] Market Sniper
