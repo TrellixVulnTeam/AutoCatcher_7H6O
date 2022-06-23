@@ -40,7 +40,9 @@ console.log(solveHint(new_hint)) //returns pokemon name if recognized
 - [x] Event Update [Last Update: 05/31/2022]
  
 ## Links
-
+- [discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
+- [NPM](https://www.npmjs.com/package/autocatcher)
+- [SubReddit](https://www.reddit.com/r/PokeBots/)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
