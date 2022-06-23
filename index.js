@@ -6,4 +6,4 @@ const hint = require('./functions/hint.js');
 const ready = {checkUpdate}
 const client = {solveHint, hint, ready}
 
-module.exports = client
+module.exports = client;
