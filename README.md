@@ -26,9 +26,17 @@ console.log(solveHint(new_hint)) //returns pokemon name if recognized
 ```
 ## Checklist
 
-- [ ] Something cool
-
-
+- [x] Hint Solver
+- [x] Spawn detector
+- [ ] Spawn Notifier[Webhook]
+- [ ] Auto-Shiny Hunter
+- [ ] Auto-Incense-r
+- [ ] Market Nuker
+- [ ] Market Sniper
+- [ ] Auction Sniper
+- [ ] Auction Notifier
+- [ ] AutoVoter [Top.gg]
+- [x] 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
