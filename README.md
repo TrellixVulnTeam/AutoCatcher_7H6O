@@ -38,6 +38,9 @@ console.log(solveHint(new_hint)) //returns pokemon name if recognized
 - [ ] AutoVoter [Top.gg]
 - [ ] AutoVerify
 - [x] Event Update
+ 
+## Links
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
