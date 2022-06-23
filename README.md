@@ -36,7 +36,8 @@ console.log(solveHint(new_hint)) //returns pokemon name if recognized
 - [ ] Auction Sniper
 - [ ] Auction Notifier
 - [ ] AutoVoter [Top.gg]
-- [x] 
+- [ ] AutoVerify
+- [x] Event Update
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
