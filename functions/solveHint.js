@@ -1,3 +1,5 @@
+
+
 async function solveHint(message) {
     const pokemon = require('../data/pokemon.json')
 

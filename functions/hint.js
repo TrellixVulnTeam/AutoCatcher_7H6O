@@ -1,3 +1,4 @@
+
 async function hint(message) {
     const poketwoId = "716390085896962058";
     var err = `Invalid message format`

@@ -1,8 +1,9 @@
-function log(content) {
-    console.log(content);
-}
-
+const checkUpdate = require('./functions/checkUpdate.js')
+checkUpdate()
 const solveHint = require('./functions/solveHint.js');
 const hint = require('./functions/hint.js');
 
-module.exports = {solveHint, hint}
+const ready = {checkUpdate}
+const client = {solveHint, hint, ready}
+
+module.exports = client
