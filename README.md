@@ -37,7 +37,7 @@ console.log(solveHint(new_hint)) //returns pokemon name if recognized
 - [ ] Auction Notifier
 - [ ] AutoVoter [Top.gg]
 - [ ] AutoVerify
-- [x] Event Update
+- [x] Event Update [Last Update: 05/31/2022]
  
 ## Links
 
