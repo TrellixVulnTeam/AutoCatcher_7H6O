@@ -34,7 +34,7 @@ shinyHunt(token, pokemon, config) // Returns null. Token, if valid, would be onl
 - [x] Hint Solver
 - [x] Spawn detector
 - [ ] Spawn Notifier[Webhook]
-- [ ] Auto-Shiny Hunter
+- [x] Auto-Shiny Hunter
 - [ ] Auto-Incense-r
 - [ ] Market Nuker
 - [ ] Market Sniper
