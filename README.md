@@ -14,8 +14,7 @@ npm i autocatcher
 ## Usage
 
 ```javascript
-const hint = require('autocatcher');
-const solveHint = require('autocatcher');
+const { hint, solveHint } = require('autocatcher');
 
 var spawned_embed = ``; //Discord Message content
 console.log(hint(spawned_embed )); //returns true/false
