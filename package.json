@@ -21,6 +21,8 @@
   "homepage": "https://github.com/MaxMady/AutoCatcher#readme",
   "dependencies": {
     "axios": "^0.27.2",
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "discord.js-selfbot-v13": "^2.3.42",
+    "xmlhttprequest": "^1.8.0"
   }
 }
