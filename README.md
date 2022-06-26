@@ -1,6 +1,7 @@
 # AutoCatcher
 [![](https://img.shields.io/npm/v/discord.js.svg)](https://www.npmjs.com/package/autocatcher)
 
+## **Note from Dev**
 
 AutoCatcher is a node module developed for automating [Pokétwo](https://poketwo.net/).
 ## Installation
