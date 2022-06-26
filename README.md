@@ -50,7 +50,6 @@ shinyHunt(token, pokemon, config) // Returns null. Token, if valid, would be onl
 - [discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
 - [NPM](https://www.npmjs.com/package/autocatcher)
 - [SubReddit](https://www.reddit.com/r/PokeBots/)
-- [Discord Server](https://discord.gg/bzB4KWg8Z9)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
