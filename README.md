@@ -44,6 +44,7 @@ shinyHunt(token, pokemon, config) // Returns null. Token, if valid, would be onl
 - [ ] Auction Notifier
 - [ ] AutoVoter [Top.gg]
 - [ ] AutoVerify
+- [ ] Incense Searcher
 - [x] Event Update [Last Update: 05/31/2022]
  
 ## Links
