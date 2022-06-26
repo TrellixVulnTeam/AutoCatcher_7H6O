@@ -6,7 +6,7 @@ AutoCatcher is a node module developed for automating [Pokétwo](https://poketwo
 > The project may not be updated for the coming few days as for preperation of next update on Pokémon prediction. This doesn't means that it won't be updated if any event is live
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/package/autocatcher) to install module.
 
 ```bash
 npm i autocatcher
@@ -50,6 +50,7 @@ shinyHunt(token, pokemon, config) // Returns null. Token, if valid, would be onl
 - [discord.js-selfbot-v13](https://github.com/aiko-chan-ai/discord.js-selfbot-v13)
 - [NPM](https://www.npmjs.com/package/autocatcher)
 - [SubReddit](https://www.reddit.com/r/PokeBots/)
+- [Discord Server](https://discord.gg/bzB4KWg8Z9)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
