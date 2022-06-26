@@ -1,9 +1,9 @@
 # AutoCatcher
 [![](https://img.shields.io/npm/v/discord.js.svg)](https://www.npmjs.com/package/autocatcher)
 
-## **Note from Dev**
-
 AutoCatcher is a node module developed for automating [Pokétwo](https://poketwo.net/).
+## **Note from Dev**
+> The project may not be updated for the coming few days as for preperation of next update on Pokémon prediction. This doesn't means that it won't be updated if any event is live
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
